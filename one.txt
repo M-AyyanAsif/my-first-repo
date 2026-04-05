@@ -1,1 +1,2 @@
-"This is the file of one person who want git knowledge"
+"This is the file of one person who want git knowledge",
+"This is the second line of the code and i am very happy that i become succesfull in this "
